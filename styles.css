@@ -1,0 +1,45 @@
+main {
+    margin: auto;
+    width: 50%;
+}
+
+.box {
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2 {
+    padding-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+ul li {
+    font-size: 25px;
+}
+
+#box-top{
+    background-color: rgb(156, 193, 226);
+}
+#box-bot{
+    background-color: rgb(98, 187, 135);
+}
+
+#box-top:hover{
+    background-color: rgb(174, 235, 243);
+}
+
+#box-bot:hover{
+    background-color: rgb(188, 218, 140);
+}
+
+.paragraph {
+    font-size: 20px;
+}
+.bold {
+    font-weight: 900;
+}
