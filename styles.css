@@ -1,45 +1,19 @@
-main {
-    margin: auto;
-    width: 50%;
+html {
+    background-color: lightgrey;
 }
 
-.box {
-    height: 200px;
-    border-radius: 10px;
-    text-align: center;
+h1 {
+    background-color: yellow;
+    color: red;
 }
 
-h2 {
-    padding-top: 10px;
+#para-blue {
+    background-color: cyan;
 }
 
-ul {
-    list-style-type: none;
-
+#para-green{
+    background-color: greenyellow;
 }
-
-ul li {
-    font-size: 25px;
-}
-
-#box-top{
-    background-color: rgb(156, 193, 226);
-}
-#box-bot{
-    background-color: rgb(98, 187, 135);
-}
-
-#box-top:hover{
-    background-color: rgb(174, 235, 243);
-}
-
-#box-bot:hover{
-    background-color: rgb(188, 218, 140);
-}
-
-.paragraph {
-    font-size: 20px;
-}
-.bold {
-    font-weight: 900;
+.para-orange {
+    background-color: orange;
 }
